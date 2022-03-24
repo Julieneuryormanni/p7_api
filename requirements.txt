@@ -1,5 +1,4 @@
 pandas
 gunicorn
 Flask
-os
 lightgbm
