@@ -1,4 +1,5 @@
 import pandas as pd
+import pyarrow
 from flask import Flask, render_template, jsonify
 import pickle
 import lightgbm as lgb
