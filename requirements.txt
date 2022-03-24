@@ -1,6 +1,5 @@
 pandas
 gunicorn
 Flask
-pickle
 os
 lightgbm
